@@ -9,7 +9,7 @@ GDI.js is a drop-in replacement for node.js in windows desktop environment.<br>S
 </p>
 
 <p align="center">
-  <a href="https://gdi.sh/download">Download latest version</a>
+  <a href="https://gdi.sh/">Download latest version</a>
  |
   <a href="https://gdi.sh/docs">Read Documentation</a>
  |
