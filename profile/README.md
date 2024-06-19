@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://gdi.sh">
     <img src="https://gdi.sh/res/gfx/gdi.png">
   </a>
 </p>
