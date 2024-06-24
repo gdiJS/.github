@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://gdi.sh">
-    <img src="https://gdi.sh/res/gfx/gdi.png">
+    <picture>
+  <source srcset="https://gdi.sh/res/gfx/gdi-alt.png" media="(prefers-color-scheme: light)"/>
+<source srcset="https://gdi.sh/res/gfx/gdi.png"  media="(prefers-color-scheme: dark)"/>
+  <img src="https://gdi.sh/res/gfx/gdi.png"/>
+</picture>
   </a>
 </p>
 
